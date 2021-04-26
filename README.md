@@ -1,6 +1,8 @@
 # sunburstsamples
 
-Behold the SunBurst Samples for all to see. 
+Warning: Infected files for research purposes only...
+
+Behold the SolarWinds SunBurst Samples for easy RE access.
 
 Thanks to FireEye for the Hashes. See here for details on what the files below are:
 
@@ -23,4 +25,3 @@ app_web_logoimagehandler.ashx.b6031896.dll
 
 Pass: infected
 
-Warning: Infected files for research purposes only...
