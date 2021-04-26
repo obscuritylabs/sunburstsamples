@@ -12,3 +12,4 @@ You make it easy for RE folks to find the loot.
 2. d5aad0d248c237360cf39c054b654d69 https://www.joesandbox.com/analysis/334202/0/html
 3. 2c4a910a1299cdae2a4e55988a2f102e https://www.joesandbox.com/analysis/330529/0/html
 
+Pass: infected
